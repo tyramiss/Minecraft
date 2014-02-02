@@ -1,35 +1,32 @@
-[18:10:06] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[18:10:06] [Server console handler/ERROR]: Exception handling console input
+[22:04:08] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[22:04:08] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: このコマンドを実行するのに十分な記憶域がありません。
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_45]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_45]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_45]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.7.0_51]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.7.0_51]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.7.0_51]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.7.0_51]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.7.0_51]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.7.0_51]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.7.0_51]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.7.0_51]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.7.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_51]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.7.0_51]
 	at ll.run(SourceFile:78) [minecraft_server.1.7.2.jar:?]
-[18:10:06] [Server thread/INFO]: Loading properties
-[18:10:06] [Server thread/INFO]: Default game type: SURVIVAL
-[18:10:06] [Server thread/INFO]: Generating keypair
-[18:10:07] [Server thread/INFO]: Starting Minecraft server on *:25566
-[18:10:07] [Server thread/INFO]: Preparing level "world"
-[18:10:07] [Server thread/INFO]: Preparing start region for level 0
-[18:10:08] [Server thread/INFO]: Preparing spawn area: 94%
-[18:10:08] [Server thread/INFO]: Done (1.112s)! For help, type "help" or "?"
-[18:10:17] [User Authenticator #1/INFO]: UUID of player azenoa is fb383f7aaaf9439bac2c3f417269a4d3
-[18:10:17] [Server thread/INFO]: azenoa[/127.0.0.1:49739] logged in with entity id 268 at (180.9046951768044, 61.0, 474.4463453788843)
-[18:10:17] [Server thread/INFO]: azenoa joined the game
-[18:10:31] [Server thread/INFO]: azenoa lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[18:10:31] [Server thread/INFO]: azenoa left the game
-[18:10:34] [Server thread/INFO]: Stopping server
-[18:10:34] [Server thread/INFO]: Saving players
-[18:10:34] [Server thread/INFO]: Saving worlds
-[18:10:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:10:34] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[18:10:34] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[18:10:34] [Server Shutdown Thread/INFO]: Stopping server
+[22:04:08] [Server thread/INFO]: Loading properties
+[22:04:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:04:08] [Server thread/INFO]: Generating keypair
+[22:04:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:04:09] [Server thread/INFO]: Preparing level "world"
+[22:04:09] [Server thread/INFO]: Preparing start region for level 0
+[22:04:10] [Server thread/INFO]: Done (0.930s)! For help, type "help" or "?"
+[22:04:18] [Server thread/INFO]: Stopping server
+[22:04:18] [Server thread/INFO]: Saving players
+[22:04:18] [Server thread/INFO]: Saving worlds
+[22:04:18] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:04:18] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:04:18] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:04:18] [Server Shutdown Thread/INFO]: Stopping server
+[22:04:18] [Server Shutdown Thread/INFO]: Saving players
+[22:04:18] [Server Shutdown Thread/INFO]: Saving worlds
+[22:04:18] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
