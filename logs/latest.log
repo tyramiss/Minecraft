@@ -1,42 +1,95 @@
-[00:04:19] [Server thread/INFO]: <mirecatus> x723 z-1550 gurai ni ita!
-[00:07:13] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:07:13] [Server thread/INFO]: Ruxelle left the game
-[00:07:36] [Server thread/INFO]: mirecatus lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Operation timed out], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:07:36] [Server thread/INFO]: mirecatus left the game
-[00:07:44] [User Authenticator #18/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
-[00:07:44] [Server thread/INFO]: Ruxelle[/125.193.122.12:4721] logged in with entity id 431292 at (414.88112908829163, 76.0, 108.30000001192096)
-[00:07:44] [Server thread/INFO]: Ruxelle joined the game
-[00:09:37] [User Authenticator #19/INFO]: UUID of player mirecatus is 32e596c1-01d9-4e03-8564-ff19f56b8b10
-[00:09:37] [Server thread/INFO]: mirecatus[/210.171.255.208:52137] logged in with entity id 434968 at (439.94783570906714, 68.0, -1058.5762590681106)
-[00:09:37] [Server thread/INFO]: mirecatus joined the game
-[00:18:10] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:18:10] [Server thread/INFO]: Ruxelle left the game
-[00:18:15] [Server thread/INFO]: mirecatus lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:18:15] [Server thread/INFO]: mirecatus left the game
-[00:18:24] [User Authenticator #20/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
-[00:18:24] [Server thread/INFO]: Ruxelle[/125.193.122.12:4740] logged in with entity id 464071 at (427.5450741980791, 95.0, 95.60080230581943)
-[00:18:24] [Server thread/INFO]: Ruxelle joined the game
-[00:28:47] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:28:47] [Server thread/INFO]: Ruxelle left the game
-[00:28:54] [User Authenticator #21/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
-[00:28:54] [Server thread/INFO]: Ruxelle[/125.193.122.12:4770] logged in with entity id 484974 at (427.69999998807907, 97.0, 94.02340878740948)
-[00:28:54] [Server thread/INFO]: Ruxelle joined the game
-[00:39:19] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:39:19] [Server thread/INFO]: Ruxelle left the game
-[00:39:25] [User Authenticator #22/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
-[00:39:25] [Server thread/INFO]: Ruxelle[/125.193.122.12:4780] logged in with entity id 504535 at (451.02403120050536, 94.0, 79.82242989374755)
-[00:39:25] [Server thread/INFO]: Ruxelle joined the game
-[00:41:39] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:41:39] [Server thread/INFO]: Ruxelle left the game
-[00:41:44] [Server thread/INFO]: tyramiss lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:41:44] [Server thread/INFO]: tyramiss left the game
-[00:41:58] [Server thread/INFO]: Stopping server
-[00:41:58] [Server thread/INFO]: Saving players
-[00:41:58] [Server thread/INFO]: Saving worlds
-[00:41:58] [Server thread/INFO]: Saving chunks for level 'anrm'/Overworld
-[00:41:58] [Server thread/INFO]: Saving chunks for level 'anrm'/Nether
-[00:41:58] [Server thread/INFO]: Saving chunks for level 'anrm'/The End
-[00:41:58] [Server Shutdown Thread/INFO]: Stopping server
-[00:41:58] [Server Shutdown Thread/INFO]: Saving players
-[00:41:58] [Server Shutdown Thread/INFO]: Saving worlds
-[00:41:58] [Server Shutdown Thread/INFO]: Saving chunks for level 'anrm'/Overworld
+[22:03:21] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[22:03:21] [Server thread/INFO]: Loading properties
+[22:03:21] [Server thread/INFO]: Default game type: SURVIVAL
+[22:03:21] [Server thread/INFO]: Generating keypair
+[22:03:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:03:21] [Server thread/INFO]: Preparing level "anrm"
+[22:03:21] [Server thread/INFO]: Preparing start region for level 0
+[22:03:22] [Server thread/INFO]: Done (0.973s)! For help, type "help" or "?"
+[22:05:01] [User Authenticator #1/INFO]: UUID of player tyramiss is d1c6724c-a523-431a-a7d8-4de00a9f6d31
+[22:05:01] [Server thread/INFO]: tyramiss[/192.168.11.100:51710] logged in with entity id 108 at (466.62024464763397, 97.0, 90.46803409270467)
+[22:05:01] [Server thread/INFO]: tyramiss joined the game
+[22:05:45] [User Authenticator #2/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:05:45] [Server thread/INFO]: Ruxelle[/125.193.122.12:27161] logged in with entity id 982 at (452.8530255265195, 101.0, 91.59019017937739)
+[22:05:45] [Server thread/INFO]: Ruxelle joined the game
+[22:11:59] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:11:59] [Server thread/INFO]: Ruxelle left the game
+[22:13:32] [User Authenticator #3/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:13:32] [Server thread/INFO]: Ruxelle[/125.193.122.12:27194] logged in with entity id 14825 at (535.9254906571998, 74.0, 135.23022278135358)
+[22:13:32] [Server thread/INFO]: Ruxelle joined the game
+[22:15:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 32805ms behind, skipping 656 tick(s)
+[22:15:06] [Server thread/INFO]: tyramiss lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:15:06] [Server thread/INFO]: tyramiss left the game
+[22:15:06] [Server thread/INFO]: Ruxelle lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:15:06] [Server thread/INFO]: Ruxelle left the game
+[22:15:22] [User Authenticator #4/INFO]: UUID of player tyramiss is d1c6724c-a523-431a-a7d8-4de00a9f6d31
+[22:15:22] [Server thread/INFO]: tyramiss[/192.168.11.100:51879] logged in with entity id 17820 at (452.9249996580416, 101.0, 90.78752860723559)
+[22:15:22] [Server thread/INFO]: tyramiss joined the game
+[22:15:27] [User Authenticator #5/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:15:27] [Server thread/INFO]: Ruxelle[/125.193.122.12:27201] logged in with entity id 18144 at (520.3554726424602, 82.0, 129.23917070200594)
+[22:15:27] [Server thread/INFO]: Ruxelle joined the game
+[22:15:33] [Server thread/INFO]: com.mojang.authlib.GameProfile@69c25b36[id=<null>,name=Ruxelle,properties={},legacy=false] (/125.193.122.12:27200) lost connection: Disconnected
+[22:19:12] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:19:12] [Server thread/INFO]: Ruxelle left the game
+[22:23:27] [User Authenticator #6/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:23:27] [Server thread/INFO]: Ruxelle[/125.193.122.12:27302] logged in with entity id 31090 at (524.4514913507164, 81.0, 134.30000001192093)
+[22:23:27] [Server thread/INFO]: Ruxelle joined the game
+[22:33:50] [Server thread/INFO]: Ruxelle lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Operation timed out], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:33:50] [Server thread/INFO]: Ruxelle left the game
+[22:34:08] [User Authenticator #7/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:34:08] [Server thread/INFO]: Ruxelle[/125.193.122.12:27327] logged in with entity id 55962 at (410.3140655614393, 71.0, 128.24463887212534)
+[22:34:08] [Server thread/INFO]: Ruxelle joined the game
+[22:39:24] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:39:24] [Server thread/INFO]: Ruxelle left the game
+[22:41:44] [User Authenticator #8/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:41:44] [Server thread/INFO]: Ruxelle[/125.193.122.12:27352] logged in with entity id 72808 at (362.20016155908354, 26.0, 65.44533794772468)
+[22:41:44] [Server thread/INFO]: Ruxelle joined the game
+[22:42:28] [Server thread/INFO]: Ruxelle was blown up by Creeper
+[22:45:52] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:45:52] [Server thread/INFO]: Ruxelle left the game
+[22:54:43] [User Authenticator #9/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:54:43] [Server thread/INFO]: Ruxelle[/125.193.122.12:27370] logged in with entity id 92883 at (406.0275705664354, 23.0, 64.02792210643901)
+[22:54:43] [Server thread/INFO]: Ruxelle joined the game
+[22:56:16] [Server thread/INFO]: Ruxelle was shot by Skeleton
+[22:56:36] [User Authenticator #10/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:56:36] [Server thread/INFO]: Ruxelle[/125.193.122.12:27380] logged in with entity id 97119 at (403.55309391949226, 28.30421341792974, 41.04594582061696)
+[22:56:36] [Server thread/INFO]: Ruxelle joined the game
+[22:56:36] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:56:36] [Server thread/INFO]: Ruxelle left the game
+[22:58:56] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:58:56] [Server thread/INFO]: Ruxelle left the game
+[22:59:55] [User Authenticator #11/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[22:59:55] [Server thread/INFO]: Ruxelle[/125.193.122.12:27453] logged in with entity id 108126 at (396.3363487241663, 26.0, 55.26625923050761)
+[22:59:55] [Server thread/INFO]: Ruxelle joined the game
+[23:05:04] [Server thread/INFO]: Ruxelle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:05:04] [Server thread/INFO]: Ruxelle left the game
+[23:05:33] [User Authenticator #12/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[23:05:33] [Server thread/INFO]: Ruxelle[/125.193.122.12:27467] logged in with entity id 120516 at (377.6927899758448, 21.0, 65.30000001192093)
+[23:05:33] [Server thread/INFO]: Ruxelle joined the game
+[23:10:39] [Server thread/INFO]: Ruxelle was blown up by Creeper
+[23:15:39] [Server thread/WARN]: Time ran backwards! Did the system time change?
+[23:16:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21380ms behind, skipping 427 tick(s)
+[23:16:13] [Server thread/INFO]: tyramiss lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:16:13] [Server thread/INFO]: tyramiss left the game
+[23:16:13] [Server thread/INFO]: Ruxelle lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:16:13] [Server thread/INFO]: Ruxelle left the game
+[23:16:21] [User Authenticator #13/INFO]: UUID of player tyramiss is d1c6724c-a523-431a-a7d8-4de00a9f6d31
+[23:16:21] [Server thread/INFO]: tyramiss[/192.168.11.100:52025] logged in with entity id 150914 at (463.7209803529629, 126.5, 90.15832302421843)
+[23:16:21] [Server thread/INFO]: tyramiss joined the game
+[23:17:22] [User Authenticator #14/INFO]: UUID of player Ruxelle is ca3704bc-cd5c-439b-bf08-b58b1f7521a0
+[23:17:22] [Server thread/INFO]: Ruxelle[/125.193.122.12:27510] logged in with entity id 153780 at (336.87995111298056, 29.0, 87.56176853694103)
+[23:17:22] [Server thread/INFO]: Ruxelle joined the game
+[23:20:23] [Server thread/INFO]: tyramiss lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:20:23] [Server thread/INFO]: tyramiss left the game
+[23:20:34] [Server thread/INFO]: Ruxelle lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Operation timed out], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:20:34] [Server thread/INFO]: Ruxelle left the game
+[23:20:38] [Server thread/INFO]: Stopping server
+[23:20:38] [Server thread/INFO]: Saving players
+[23:20:38] [Server thread/INFO]: Saving worlds
+[23:20:38] [Server thread/INFO]: Saving chunks for level 'anrm'/Overworld
+[23:20:38] [Server thread/INFO]: Saving chunks for level 'anrm'/Nether
+[23:20:38] [Server thread/INFO]: Saving chunks for level 'anrm'/The End
+[23:20:38] [Server Shutdown Thread/INFO]: Stopping server
+[23:20:38] [Server Shutdown Thread/INFO]: Saving players
+[23:20:38] [Server Shutdown Thread/INFO]: Saving worlds
+[23:20:38] [Server Shutdown Thread/INFO]: Saving chunks for level 'anrm'/Overworld
